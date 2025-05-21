@@ -22,8 +22,7 @@
 
 1. 克隆项目
 ```bash
-git clone [项目地址]
-cd p2p-file-system/frontend
+git clone https://github.com/renranSy/mini-file-system.git
 ```
 
 2. 安装依赖
