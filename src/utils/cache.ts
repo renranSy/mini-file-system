@@ -1,5 +1,5 @@
 const cache = {
-  key: 'p2p_file_system_',
+  key: 'file_system_',
   //设置缓存(expire为缓存时效)
   set(key: string, value: any, expire?: string) {
     key = this.getKey(key)

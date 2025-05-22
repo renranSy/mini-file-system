@@ -17,7 +17,7 @@
         <div class="flex justify-between h-16">
           <div class="flex">
             <div class="flex-shrink-0 flex items-center">
-              <h1 class="text-xl font-bold">P2P 文件传输系统</h1>
+              <h1 class="text-xl font-bold">文件传输系统</h1>
             </div>
           </div>
           <div class="flex items-center">
